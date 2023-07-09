@@ -1,0 +1,98 @@
+h1 {
+    color: blue;
+    background-color: rgb(255, 239, 220);
+    width: 500px;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    font-size: 30px
+}
+
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 23px
+}
+
+hr {
+    font-size: 0px;
+    color: red
+}
+
+.header {
+    background-color: rgb(183, 153, 255);
+
+    padding: 40px
+}
+
+.main {
+    background-color: rgb(172, 188, 255);
+
+    padding: 40px
+}
+
+.favorites {
+
+    background-color: rgb(174, 226, 255);
+    padding: 40px
+}
+
+.work {
+    background-color: rgb(223, 255, 252);
+    padding: 40px
+}
+
+.football {
+    background-color: rgb(219, 241, 252);
+
+    padding: 60px
+}
+
+.footer {
+
+    background-color: rgb(202, 240, 248);
+    padding: 40px
+}
+.bye {
+
+margin: 40px;
+filter: saturate(1.8) drop-shadow(9px 9px 4px rgba(0, 0, 0, 0.329))
+
+
+}
+
+.work2 {
+
+    margin: 40px;
+    filter: saturate(1.8) drop-shadow(9px 9px 4px rgba(0, 0, 0, 0.329))
+
+}
+
+.family {
+
+    margin: 40px;
+    filter: saturate(1.8) drop-shadow(9px 9px 4px rgba(0, 0, 0, 0.329))
+
+
+
+}
+
+.football2 {
+
+    margin: 40px;
+filter: saturate(1.8) drop-shadow(9px 9px 4px rgba(0, 0, 0, 0.329))
+
+
+
+}
+.ball {
+
+    margin: 40px;
+    filter: saturate(1.8) drop-shadow(9px 9px 4px rgba(0, 0, 0, 0.329))
+
+
+
+}
+
+
